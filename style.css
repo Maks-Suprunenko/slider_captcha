@@ -1,0 +1,23 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+.wrapper {
+	max-width: 200px;
+	margin: 30px 10px;
+}
+
+li:hover {
+	background-color: #6AB0E5;
+}
+
+a {
+	padding: 15px 10px;
+	text-decoration: none;
+	font-size: 20px;
+	color: #030833;
+	display: block;
+	border: 3px solid #6AB0E5;
+	border-radius: 5px;
+	margin-bottom: 10px; 
+}
